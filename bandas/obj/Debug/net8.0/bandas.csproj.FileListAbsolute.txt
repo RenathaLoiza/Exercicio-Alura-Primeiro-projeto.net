@@ -1,0 +1,14 @@
+C:\Users\Natanael\source\repos\bandas\bandas\bin\Debug\net8.0\bandas.exe
+C:\Users\Natanael\source\repos\bandas\bandas\bin\Debug\net8.0\bandas.deps.json
+C:\Users\Natanael\source\repos\bandas\bandas\bin\Debug\net8.0\bandas.runtimeconfig.json
+C:\Users\Natanael\source\repos\bandas\bandas\bin\Debug\net8.0\bandas.dll
+C:\Users\Natanael\source\repos\bandas\bandas\bin\Debug\net8.0\bandas.pdb
+C:\Users\Natanael\source\repos\bandas\bandas\obj\Debug\net8.0\bandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael\source\repos\bandas\bandas\obj\Debug\net8.0\bandas.AssemblyInfoInputs.cache
+C:\Users\Natanael\source\repos\bandas\bandas\obj\Debug\net8.0\bandas.AssemblyInfo.cs
+C:\Users\Natanael\source\repos\bandas\bandas\obj\Debug\net8.0\bandas.csproj.CoreCompileInputs.cache
+C:\Users\Natanael\source\repos\bandas\bandas\obj\Debug\net8.0\bandas.dll
+C:\Users\Natanael\source\repos\bandas\bandas\obj\Debug\net8.0\refint\bandas.dll
+C:\Users\Natanael\source\repos\bandas\bandas\obj\Debug\net8.0\bandas.pdb
+C:\Users\Natanael\source\repos\bandas\bandas\obj\Debug\net8.0\bandas.genruntimeconfig.cache
+C:\Users\Natanael\source\repos\bandas\bandas\obj\Debug\net8.0\ref\bandas.dll
